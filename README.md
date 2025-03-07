@@ -1,6 +1,6 @@
 # Google Sign-In Library
 
-**[Versão em Português aqui](#README.pt.md)**
+**[Versão em Português aqui](https://github.com/Jao-Viquitor/Google-signIn-lib/blob/master/docs/README.pt.md)**
 
 Welcome to `google-signin-lib`, a lightweight, secure, and generic Kotlin library for implementing Google authentication in Android applications using the Credential Manager API. Designed to be simple (1-2 lines of usage), robust, and reusable, this library adheres to SOLID principles, Clean Code, and Clean Architecture, providing seamless integration with "Sign in with Google" while delivering detailed payload data for client-side use and backend validation.
 
