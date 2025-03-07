@@ -1,6 +1,6 @@
 # Google Sign-In Library
 
-**[English version here](#README.md)**
+**[English version here](https://github.com/Jao-Viquitor/Google-signIn-lib/blob/master/README.md)**
 
 Bem-vindo à `google-signin-lib`, uma biblioteca Kotlin leve, segura e genérica para implementar autenticação com o Google em aplicativos Android usando o Credential Manager API. Projetada para ser simples (uso em 1-2 linhas), robusta e reutilizável, esta biblioteca segue os princípios SOLID, Clean Code e Clean Architecture, oferecendo uma integração fluida com o "Sign in with Google" enquanto fornece dados detalhados do payload para uso no cliente e validação no backend.
 
@@ -53,7 +53,7 @@ Você precisará do `webClientId` gerado para configurar a biblioteca.
 Adicione a dependência ao arquivo `build.gradle` do seu módulo:
 ```gradle
 dependencies {
-    implementation 'com.rcdnc:google-signin-lib:1.0.0'
+    implementation 'com.viquitor:google-signin-lib:1.0.0'
 }
 ```
 
