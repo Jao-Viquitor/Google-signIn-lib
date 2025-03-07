@@ -53,7 +53,7 @@ You’ll need the generated `webClientId` to configure the library.
 Add the dependency to your module’s `build.gradle` file:
 ```gradle
 dependencies {
-    implementation 'com.rcdnc:google-signin-lib:1.0.0'
+    implementation 'com.viquitor:google-signin-lib:1.0.0'
 }
 ```
 
